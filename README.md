@@ -1,5 +1,4 @@
 # hello-world
-First GitHub repository.
 
 
 Waddup nerds,
